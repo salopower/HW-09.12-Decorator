@@ -1,0 +1,1 @@
+Function boo was called 2 times.
